@@ -1,12 +1,19 @@
-<h1 style="color:#000">Olá, eu sou o Eduardo</h1>
-<p>e aqui eu mostro todos os meus trabalhos</p>
+<h1 align="center" >
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&center=true&vCenter=true&pause=1000&color=A6BC09&random=false&width=500&height=70&lines=Ol%C3%A1!;Me+chamo+Eduardo!" alt="Typing SVG" />
+</h1>
 
 <h2>GitHub Stats</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduhsantiago)](https://github.com/anuraghazra/github-readme-stats)
-<h2>Tecnologias usadas</h2>
-<div style="display: inline_block"><br>
-  <img align="center" alt="edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<a href="https://github.com/eduhsantiago/github-readme-stats">
+  <img width=100% height=200 align="center" src= "https://github-readme-stats.vercel.app/api?username=eduhsantiago&show_icons=true&theme=merko" />
+</a>
+
+
+<h2 align="center">Tecnologias usadas</h2>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" />
+</div>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
+
