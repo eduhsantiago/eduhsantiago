@@ -1,6 +1,5 @@
 <h1 align="center" >
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&center=true&vCenter=true&pause=1000&color=A6BC09&random=false&width=500&height=70&lines=Ol%C3%A1!;Me+chamo+Eduardo!" alt="Typing SVG" />
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ol%C3%A1!;Me+chamo+Eduardo!;" /></h1>
 
 <h2>GitHub Stats</h2>
 
