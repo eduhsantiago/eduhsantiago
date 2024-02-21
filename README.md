@@ -4,7 +4,7 @@
 <h2>GitHub Stats</h2>
 
 <a href="https://github.com/eduhsantiago/github-readme-stats">
-  <img width=100% height=200 align="center" src= "https://github-readme-stats.vercel.app/api?username=eduhsantiago&show_icons=true&theme=merko" />
+  <img width= 50% height=200 src= "https://github-readme-stats.vercel.app/api?username=eduhsantiago&show_icons=true&theme=merko" />
 </a>
 
 
